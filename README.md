@@ -1,4 +1,4 @@
-# Evil_Twin_Attack project
+# Evil Twin Attack project
 
 step 1-
 Download Kali to your VM (virtualBox) - https://www.youtube.com/watch?v=V_Payl5FlgQ&t=2s
